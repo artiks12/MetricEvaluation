@@ -1,4 +1,4 @@
-# RagCreationPipeline
+# MetricEvaluation
 This is the repository to create instructions form custom RAG framework. It is a part of the master thesis "Evaluation and Adaptation of Large Language Models for Question-Answering on Legislation" made in University of Latvia.
 
 ### Citations to metrics in this repository:
