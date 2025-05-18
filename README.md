@@ -1,5 +1,5 @@
 # MetricEvaluation
-This is the repository to create instructions form custom RAG framework. It is a part of the master thesis "Evaluation and Adaptation of Large Language Models for Question-Answering on Legislation" made in University of Latvia.
+This is the repository to evaluuate generated responses using automated metrics. It is a part of the master thesis "Evaluation and Adaptation of Large Language Models for Question-Answering on Legislation" made in University of Latvia.
 
 ### Citations to metrics in this repository:
 This repository contains codes from BARTScore, MoverScore and UniEval repositories for the purpose of using these metrics as they do not have pip packages or have outdated pip packages. The original codes are available here:
